@@ -43,3 +43,4 @@ else:
 <img width="1254" height="250" alt="Screenshot 2025-12-26 221452" src="https://github.com/user-attachments/assets/e57f04e1-9704-4be2-8cc7-cab6bca36d37" />
 
 ## Result
+Thus the program is executed successfully
