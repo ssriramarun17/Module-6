@@ -14,7 +14,26 @@ To write a Python program that demonstrates class inheritance by creating a pare
 7. Output will demonstrate method overriding: printing `"fish"` and `"shark"` accordingly.
 
 ## 💻 PROGRAM:
+```
+class Fish:
+    def type(self):
+        print("fish")
 
+
+class Shark:
+    def type(self):
+        print("shark")
+
+
+obj_goldfish = Fish()
+obj_hammerhead = Shark()
+
+obj_goldfish.type()
+obj_hammerhead.type()
+```
 ## OUTPUT
 
+<img width="1026" height="336" alt="Screenshot 2025-12-26 221312" src="https://github.com/user-attachments/assets/30b6d379-717f-48fd-b62d-31ee7d9d2eb6" />
+
 ## RESULT
+Thus the program has been executed successfully
